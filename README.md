@@ -17,9 +17,7 @@
 </h2>
 
 <p>
-       👋 I'm a passionate <b>Developer</b> and <b>Data Analytics Enthusiast</b> from India.<br>
-I love turning data into insights and building intelligent, user-friendly solutions.<br>
-Exploring the world of AI, ML and Full Stack Development.
+✨ I'm a Computer Science graduate with a passion for Data Analytics, Artificial Intelligence, Machine Learning, and Full-Stack Development. I love building modern web applications, exploring data-driven solutions, and transforming innovative ideas into meaningful projects. 💡 Every project is an opportunity to learn something new, improve my technical skills, and push myself beyond my comfort zone. 🚀 I'm always exploring emerging technologies, creating practical solutions, and striving to become a better engineer every single day while building a career that creates real impact. 🌍
 </p>
 
 <p align="center">
