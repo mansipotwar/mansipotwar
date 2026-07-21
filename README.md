@@ -65,16 +65,16 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql,react,flask,mongodb,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,react,flask,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,tableau" height="48" />
+  <img src="./assets/icons/icons8-pandas-48.png" height="48" />
+  <img src="./assets/icons/icons8-numpy-48.png" height="48" />
+  <img src="./assets/icons/icons8-jupyter-50.png" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="48" />
+  <img src="./assets/icons/icons8-power-bi-2021-48.png" height="48" />
+  <img src="./assets/icons/icons8-matplotlib-48.png" height="48" />
 </p>
 
 <hr>
@@ -82,3 +82,17 @@
      1. FULL WIDTH BANNER
      Replace only the image URL below.
 ========================================================= -->
+<hr>
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mansipotwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansipotwar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mansipotwar&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr>
