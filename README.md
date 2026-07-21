@@ -59,8 +59,8 @@
   &nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@mansiova" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50" />
-  </a>
+  <img src="https://img.icons8.com/color/96/youtube-play.png" height="50" alt="YouTube" />
+</a>
   &nbsp;&nbsp;
 
   <a href="https://yourportfolio.com" target="_blank">
