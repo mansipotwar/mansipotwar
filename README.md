@@ -11,9 +11,9 @@
 <!-- =========================================================
      2. INTRO DATA 
 ========================================================= -->
-<h1 align="center">
+<h3 align="center">
   Namaste 🙏 I'm <span style="color:#8b5cf6;">Mansi Potwar</span>
-</h1>
+</h3>
 
 <p>
 <b>✨ I'm a Computer Science graduate passionate about Data Analytics, AI/ML, and Full-Stack Development. I love transforming ideas into real-world applications through clean code, intelligent solutions, and continuous learning. 🚀 Always exploring new technologies and building projects that create meaningful impact. 🌍</b>  
@@ -23,54 +23,61 @@
   <img src="https://komarev.com/ghpvc/?username=mansipotwar&label=Profile%20Views&style=for-the-badge"/>
   <img src="https://badges.pufler.dev/repos/mansipotwar?style=for-the-badge" />
 </p>
-
 <!-- =========================================================
-     3. CONNECT WITH ME 
+     3. ABOUT SECTION
 ========================================================= -->
 <hr>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<table>
+<tr>
 
-<p align="center">
+<td width="70%" valign="top">
 
-  <a href="mailto:maanasiexai9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
-  &nbsp;&nbsp;
+<h3>🚀 About Me</h3>
 
-  <a href="https://www.linkedin.com/in/mansi-potwar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  &nbsp;&nbsp;
+<ul>
+  <li>🎓 B.Tech Computer Technology Graduate</li>
+  <li>📊 Open to Data Analytics & MIS Executive roles</li>
+  <li>📈 Building impactful data-driven solutions</li>
+  <li>🛠️ Working with Python, SQL, Excel, Power BI & Data Analytics tools</li>
+  <li>💡 Passionate about solving real-world problems using data</li>
+  <li>🍵 Green Tea • Music • Continuous Learning</li>
+</ul>
 
-  <a href="https://github.com/mansipotwar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-  &nbsp;&nbsp;
+</td>
 
-  <a href="https://x.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-  </a>
-  &nbsp;&nbsp;
+<td width="50%" align="right">
 
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
-  &nbsp;&nbsp;
+<img src="https://dummyimage.com/1200x320/0b1020/8b5cf6&text=REPLACE+WITH+YOUR+BANNER" width="100%" alt="Profile Banner"/>
 
-  <a href="https://www.youtube.com/@mansiova" target="_blank">
-  <img src="https://img.icons8.com/color/96/youtube-play.png" height="50" alt="YouTube" />
-</a>
-  &nbsp;&nbsp;
+</td>
 
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" height="50" />
-  </a>
+</tr>
+</table>
 
-</p>
+<hr>
+<!-- =========================================================
+     3. TECH STACK  
+========================================================= -->
 
 <hr>
 
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter,react,flask,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,tableau" height="48" />
+</p>
+
+<hr>
 <!-- =========================================================
      1. FULL WIDTH BANNER
      Replace only the image URL below.
