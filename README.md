@@ -82,17 +82,28 @@
      1. FULL WIDTH BANNER
      Replace only the image URL below.
 ========================================================= -->
-<hr>
+<h2 align="center">📊 GITHUB STATS</h2>
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<table align="center">
+<tr>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mansipotwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansipotwar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<td width="33%" align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mansipotwar&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-psi-fawn-86.vercel.app/api?username=mansipotwar&show_icons=true&hide_border=true&count_private=true" width="100%">
 
-<hr>
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://github-readme-stats-psi-fawn-86.vercel.app/api/top-langs/?username=mansipotwar&layout=donut&hide_border=true" width="100%">
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansipotwar&hide_border=true" width="100%">
+
+</td>
+
+</tr>
+</table>
