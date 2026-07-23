@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mansipotwar&label=Profile%20Views&style=for-the-badge"/>
-  <img src="https://badges.pufler.dev/repos/mansipotwar?style=for-the-badge" />
+  <img src="https://badges.pufler.dev/repos/mansipotwar?style=for-the-badge&v=9" />
 </p>
 <!-- =========================================================
      3. ABOUT SECTION
