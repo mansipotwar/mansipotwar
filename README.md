@@ -48,8 +48,7 @@
 
 <td width="50%" align="right">
 
-<img src="https://dummyimage.com/1200x320/0b1020/8b5cf6&text=REPLACE+WITH+YOUR+BANNER" width="100%" alt="Profile Banner"/>
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdncmZ3NWpkdnJvcHZpbXMzbXBwamtjbDdmdHRiZzhobWtmdndwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Profile Animation"/>
 </td>
 
 </tr>
