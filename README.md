@@ -1,19 +1,19 @@
+<h3 >
+  NAMASTE 🙏 I'M <span style="color:#8b5cf6;">MANSI POTWAR</span>
+</h3>
 <!-- =========================================================
      1. FULL WIDTH BANNER
      Replace only the image URL below.
 ========================================================= -->
 
 <p align="center">
-  <img src="https://dummyimage.com/1200x320/0b1020/8b5cf6&text=REPLACE+WITH+YOUR+BANNER" width="100%" alt="Profile Banner"/>
+<img src="https://raw.githubusercontent.com/mansipotwar/mansipotwar/main/mansi.png" width="100%">
 </p>
 
 <br/>
 <!-- =========================================================
      2. INTRO DATA 
 ========================================================= -->
-<h3 align="center">
-  Namaste 🙏 I'm <span style="color:#8b5cf6;">Mansi Potwar</span>
-</h3>
 
 <p>
 <b>✨ I'm a Computer Science graduate passionate about Data Analytics, AI/ML, and Full-Stack Development. I love transforming ideas into real-world applications through clean code, intelligent solutions, and continuous learning. 🚀 Always exploring new technologies and building projects that create meaningful impact. 🌍</b>  
