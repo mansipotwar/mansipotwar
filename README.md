@@ -1,5 +1,5 @@
 <h3 >
-  I'M <span style="color:#8b5cf6;">MANSI POTWAR</span>
+  I'M <span style="color:#8b5cf6;">MANSI</span>
 </h3>
 <!-- =========================================================
      1. FULL WIDTH BANNER
