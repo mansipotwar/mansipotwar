@@ -7,7 +7,7 @@
 ========================================================= -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mansipotwar/mansipotwar/main/AMBITION%20DISCIPLINE%20PRECISION%20PURPOSE%20VISION%20MOMENTUM%20FOCUS%20GROWTH%20IMPACT%20CREATE%20INNOVATE%20ENGINEER%20DISCOVER%20EVOLVE%20INSPIRE%20LEARNING%20BUILDING%20PROGRESS%20EXCELLENCE%20EXECUTION%20LEGACY%20AMBITION%20DISCIPLIN.png" width="100%">
+<img src="https://raw.githubusercontent.com/mansipotwar/mansipotwar/main/mannsi.png" width="100%">
 </p>
 
 <br/>
